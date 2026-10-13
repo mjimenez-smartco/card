@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Jimenez;Mauri;;;
+FN:Mauri Jimenez
+ORG:SmartCo Packaging
+TITLE:Technical Product Development
+TEL;TYPE=CELL,VOICE:+526643852132
+EMAIL;TYPE=WORK,INTERNET:m.jimenez@smartco.mx
+URL:https://smartco.mx
+ADR;TYPE=WORK:;;Segunda 16700\, La Cienega Poniente;Tijuana;B.C.;22114;Mexico
+END:VCARD
