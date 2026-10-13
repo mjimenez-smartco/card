@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sanchez;Betsabé;;;
+FN:Betsabé Sanchez
+ORG:SmartCo Packaging
+TITLE:Marketing Coordinator
+TEL;TYPE=CELL,VOICE:+526645282799
+EMAIL;TYPE=WORK,INTERNET:b.sanchez@smartco.mx
+URL:https://smartco.mx
+ADR;TYPE=WORK:;;Segunda 16700\, La Cienega Poniente;Tijuana;B.C.;22114;Mexico
+END:VCARD
