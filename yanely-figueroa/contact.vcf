@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Figueroa;Yanely;;;
+FN:Yanely Figueroa
+ORG:SmartCo Packaging
+TEL;TYPE=CELL,VOICE:+526641934058
+EMAIL;TYPE=WORK,INTERNET:y.figueroa@smartco.mx
+URL:https://smartco.mx
+ADR;TYPE=WORK:;;Segunda 16700\, La Cienega Poniente;Tijuana;B.C.;22114;Mexico
+END:VCARD
